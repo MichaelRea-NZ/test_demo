@@ -1,7 +1,0 @@
-# Header
-Demo for git install
-
-##Subheader
-Watch Video
-
-Some more changes
